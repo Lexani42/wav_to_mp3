@@ -8,4 +8,6 @@ hello world! this is a solution for permanent checking directory for new .wav fi
 
 ATTENTION! for converting script uses 'lame' utility.
 
+names such as qwe.rty.wav will be rewritten as qwe.mp3
+
 TESTED ON MANJARO LINUX ONLY
