@@ -8,4 +8,4 @@ hello world! this is a solution for permanent checking directory for new .wav fi
 
 ATTENTION! for converting script uses 'lame' utility.
 
-TESTED ON UNIX-BASED SYSTEMS ONLY
+TESTED ON MANJARO LINUX ONLY
